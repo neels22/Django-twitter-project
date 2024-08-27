@@ -1,9 +1,12 @@
 # Django-twitter-project
 
-register to create a tweet
 
+Created this project to understand few basics of django and aws.
 
-try these links :
+register to create a tweet.
+
+Sometimes I stop the aws ec2 instance so the project is not live 
+but try these links :
 
 http://ec2-34-203-164-240.compute-1.amazonaws.com:8000/tweet/
 
